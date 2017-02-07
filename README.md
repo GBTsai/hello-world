@@ -1,9 +1,7 @@
 # hello-world
-First Github
+========
+First Github cool
+
 
 
 Hello, my name is GB. I come from Taiwan.
-aaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaa
-wwwwwwwwwwwwwww
-eeeeeeeeeeeeeee
